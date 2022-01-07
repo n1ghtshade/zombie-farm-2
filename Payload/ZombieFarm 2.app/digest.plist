@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AlienStage.plist</key>
+	<string>e1a29d960cc288bfd84bacd730ee1b9c</string>
+	<key>AlienStageElements.plist</key>
+	<string>5f4b7556d384e18a4c2d21b19ba9ce33</string>
+	<key>Attacks.plist</key>
+	<string>ca483a2d346bb70e3ea30dddeb92824b</string>
+	<key>DailyRewards.plist</key>
+	<string>e55c01d8bec9c983f6ffdee39797605b</string>
+	<key>Drops.plist</key>
+	<string>36e020fef25b0075ddf22480fa3d3bca</string>
+	<key>Enemies.plist</key>
+	<string>8358bf1457c021b106fe8fa7a062e97f</string>
+	<key>Entitlements.plist</key>
+	<string>3fd82f02433833918c1cf13383d29c88</string>
+	<key>FarmStage.plist</key>
+	<string>55a49205200af4e1db91f126669f5785</string>
+	<key>FarmerSprites.plist</key>
+	<string>3b9ff4550670ea8a85faf6fcd3120742</string>
+	<key>GiftSelection.plist</key>
+	<string>4265fe4969d97eb172d5f1eddf4513f3</string>
+	<key>Gifts.plist</key>
+	<string>a0e231dc2920d79736c98b165700ea34</string>
+	<key>Info.plist</key>
+	<string>fb6caea3bbf1a3dff95642f2ce053eb5</string>
+	<key>Market.plist</key>
+	<string>8fbcf7914497808004b8fcc189b18c89</string>
+	<key>Pets.plist</key>
+	<string>929200712c4250b9a96f82c72b39a902</string>
+	<key>PlayerLevels.plist</key>
+	<string>53d95462be85507192e99894830810d6</string>
+	<key>Promos.plist</key>
+	<string>173800b9c7fe1c20f5f4c0c870b930db</string>
+	<key>Quests.plist</key>
+	<string>fa1ea4f307eeaea05b7fc96c784b3eaf</string>
+	<key>RobotStage.plist</key>
+	<string>d3aab9d38161c96d467812a216ffbe08</string>
+	<key>RobotStageElements.plist</key>
+	<string>04bfc196c8271833d2836cc512128eec</string>
+	<key>TileProperties.plist</key>
+	<string>a8939086c813472653c01e0fa5bdc123</string>
+	<key>UnitStats.plist</key>
+	<string>b01a41368b836e742c87286bed223ba0</string>
+	<key>XmasFarmStage.plist</key>
+	<string>36e23fe07540d9bd86d055230d68471d</string>
+	<key>ZombieSheet.plist</key>
+	<string>47ea9e7658a49e625d584c59d6275948</string>
+	<key>Zombies.plist</key>
+	<string>3a9e0942ee599aa2ac5f9ce3dc807aad</string>
+	<key>gameplayParameters.plist</key>
+	<string>cc2d803d886d779e6b4fd2bb3d3e7062</string>
+</dict>
+</plist>

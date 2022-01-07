@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://mapeditor.org/dtd/1.0/map.dtd">
+<map version="1.0" orientation="isometric" width="40" height="40" tilewidth="48" tileheight="24">
+ <tileset name="base" firstgid="1" tilewidth="48" tileheight="24">
+  <image source="tex0000.png"/>
+ </tileset>
+ <layer name="base" width="40" height="40">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAAO3OoQEAAAwCIP3/6b1gXCDQaZLCIA8OAAAAAACwOAX1pfgAGQAA
+  </data>
+ </layer>
+</map>
