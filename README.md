@@ -17,9 +17,9 @@ Zombie farm 2 is the highly anticipated sequel to Zombie Farm. It almost exactly
 
 [Differences from Original](https://zombie-farm.fandom.com/wiki/Zombie_Farm_2)
 
-#### Release Notes
+    #### Release Notes
 
-New in v2.25:
+    New in v2.25:
 
     improved compatibility with iOS8 and most recent devices
     boosts, zombie, and farm management tools have been moved from "Options" to the main screen, to make them a lot easier to use
@@ -31,7 +31,7 @@ New in v2.25:
     various crash and bug fixes to improve the overall experience
 
 
-#### Version History:
+    #### Version History:
 
 
     May 23, 2012 Initial release
