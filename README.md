@@ -1,9 +1,9 @@
-### README.md
+## README.md
 
 The Payload/ folder contains the app binary (armv7 mach-O 32-bit) along with all of its resources that it needs to function. Once inside the Payload/ folder, there will be a single file with the “.app” extension. This file is actually just another folder, and you can open it like any other folder. On MacOS, right click it and press “Show Package Contents”.
 
 
-## Brief overview of iOS app encryption mechanism
+### Brief overview of iOS app encryption mechanism
 
 Basically every app you download has its binary executable (mach-O binary) encrypted (or codesigned, what you prefer) "on-the-fly" by Apple servers with public-key cryptography, and it's tied to a single apple id. 
 When you try to run that .IPA on another device (not logged in with the apple id of the purchaser), that device won't have the key to decrypt the mach-o binary.
@@ -17,7 +17,7 @@ Zombie farm 2 is the highly anticipated sequel to Zombie Farm. It almost exactly
 
 [Differences from Original](https://zombie-farm.fandom.com/wiki/Zombie_Farm_2)
 
-### Release Notes
+#### Release Notes
 
 New in v2.25:
 
@@ -31,7 +31,7 @@ New in v2.25:
     various crash and bug fixes to improve the overall experience
 
 
-### Version History:
+#### Version History:
 
 
     May 23, 2012 Initial release
