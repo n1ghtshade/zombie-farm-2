@@ -34,27 +34,27 @@ New in v2.25:
 ### Version History:
 
 
-May 23, 2012 Initial release
-June 05, 2012 New version 2.02
-June 14, 2012 New version 2.03
-June 26, 2012 New version 2.04
-July 12, 2012 New version 2.05
-July 26, 2012 New version 2.06
-August 14, 2012 New version 2.07
-September 07, 2012 New version 2.08
-September 25, 2012 New version 2.09
-October 08, 2012 New version 2.10
-October 24, 2012 New version 2.11
-November 06, 2012 New version 2.12
-November 22, 2012 New version 2.13
-November 30, 2012 New version 2.14
-January 15, 2013 New version 2.15
-February 02, 2013 New version 2.16
-February 22, 2013 New version 2.17
-March 02, 2013 New version 2.18
-March 15, 2013 New version 2.19
-March 29, 2013 New version 2.20
-April 12, 2013 New version 2.21
-July 17, 2013 New version 2.22
-August 20, 2013 New version 2.23
-February 15, 2015 New version 2.25
+    May 23, 2012 Initial release
+    June 05, 2012 New version 2.02
+    June 14, 2012 New version 2.03
+    June 26, 2012 New version 2.04
+    July 12, 2012 New version 2.05
+    July 26, 2012 New version 2.06
+    August 14, 2012 New version 2.07
+    September 07, 2012 New version 2.08
+    September 25, 2012 New version 2.09
+    October 08, 2012 New version 2.10
+    October 24, 2012 New version 2.11
+    November 06, 2012 New version 2.12
+    November 22, 2012 New version 2.13
+    November 30, 2012 New version 2.14
+    January 15, 2013 New version 2.15
+    February 02, 2013 New version 2.16
+    February 22, 2013 New version 2.17
+    March 02, 2013 New version 2.18
+    March 15, 2013 New version 2.19
+    March 29, 2013 New version 2.20
+    April 12, 2013 New version 2.21
+    July 17, 2013 New version 2.22
+    August 20, 2013 New version 2.23
+    February 15, 2015 New version 2.25
