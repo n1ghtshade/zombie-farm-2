@@ -17,7 +17,8 @@ Zombie farm 2 is the highly anticipated sequel to Zombie Farm. It almost exactly
 
 [Differences from Original](https://zombie-farm.fandom.com/wiki/Zombie_Farm_2)
 
-    #### Release Notes
+
+#### Release Notes
 
     New in v2.25:
 
@@ -31,8 +32,7 @@ Zombie farm 2 is the highly anticipated sequel to Zombie Farm. It almost exactly
     various crash and bug fixes to improve the overall experience
 
 
-    #### Version History:
-
+#### Version History:
 
     May 23, 2012 Initial release
     June 05, 2012 New version 2.02
