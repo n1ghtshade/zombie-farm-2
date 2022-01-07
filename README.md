@@ -1,4 +1,4 @@
-README.md
+### README.md
 
 The Payload/ folder contains the app binary (armv7 mach-O 32-bit) along with all of its resources that it needs to function. Once inside the Payload/ folder, there will be a single file with the “.app” extension. This file is actually just another folder, and you can open it like any other folder. On MacOS, right click it and press “Show Package Contents”.
 
